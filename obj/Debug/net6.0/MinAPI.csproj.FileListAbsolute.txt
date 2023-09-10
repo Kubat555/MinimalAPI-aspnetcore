@@ -68,3 +68,8 @@ E:\Education\MinimalAPI\MinAPI\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite
 E:\Education\MinimalAPI\MinAPI\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 E:\Education\MinimalAPI\MinAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 E:\Education\MinimalAPI\MinAPI\obj\Debug\net6.0\MinAPI.csproj.CopyComplete
+E:\Education\MinimalAPI\MinAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Education\MinimalAPI\MinAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Education\MinimalAPI\MinAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Education\MinimalAPI\MinAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Education\MinimalAPI\MinAPI\obj\Debug\net6.0\MinAPI.MvcApplicationPartsAssemblyInfo.cs
